@@ -17,9 +17,9 @@ ficheiros JSON à equipa de UI com os dados das aeronaves.
 
 ### Configuração
 
-A configuração do dump1090 é feita através do ficheiro em /resources/dump1090-fa, este permite 
+A configuração do dump1090 é feita através do ficheiro em ***/resources/dump1090-fa***, este permite 
 alterar o funcionamento do programa dump1090.  
-Se for alterado dentro do container enquanto este está a correr, em /etc/default/dump1090, 
+Se for alterado dentro do container enquanto este está a correr, em ***/etc/default/dump1090***, 
 será necessário reiniciar o serviço com:
 
     systemctl restart dump1090-fa
