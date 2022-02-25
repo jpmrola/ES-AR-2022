@@ -1,4 +1,4 @@
-# Projeto ES 2021/2022 - Grupo AR
+# Projeto ES 2021/2022 - Equipa AR
 
 ## Resumo
 
